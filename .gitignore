@@ -4,3 +4,4 @@ test/
 build/
 env
 .idea/
+data/
